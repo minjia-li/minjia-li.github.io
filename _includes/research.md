@@ -28,7 +28,7 @@
  
   
 <div>
-<div class="title"> [3] <strong><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4430507">The Effects of Mandatory Supplier Finance Program Disclosure: Evidence from the Credit Markets</a></strong><em>, with Philip G. Berger and Christine Liu </em> </div>
+<div class="title"> [3] <strong>The Effects of Mandatory Supplier Finance Program Disclosure: Evidence from the Credit Markets</a></strong><em>, with Philip G. Berger and Christine Liu </em> </div>
  <ul> 
   </ul>
 
