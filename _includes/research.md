@@ -18,7 +18,7 @@
 <div>
 <div class="title"> [2] <strong><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4430507">Firm Political Alignment: Measurement and Effects</a></strong><em>, with Ping Jiang, Jing Li and Jenny Li Zhang  </em> </div>
  <ul>
-     <li>  Revise and resubmit </li>
+     
 
   </ul>
 
