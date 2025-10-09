@@ -6,6 +6,6 @@ Welcome to my website! I am an Assistant Professor of Accounting at the Universi
  
 <strong>Research interests:</strong> archival-based studies in financial and managerial accounting - with special focuses on climate change, supply chain management, political costs, executive compensation, etc. 
 
-Prior to joining the University of Alberta, I obtained my Ph.D. from UBC Sauder School of Business, the Master of Finance from MIT Sloan School of Management, and the Bachelor in Economics from Wuhan University. 
+Prior to joining the University of Alberta in 2024, I obtained my Ph.D. from UBC Sauder School of Business, the Master of Finance from MIT Sloan School of Management in 2019, and the Bachelor in Economics from Wuhan University in 2018. 
 
 Please feel free to reach out and connect via <a href="minjia4@ualberta.ca">minjia4@ualberta.ca</a>!
