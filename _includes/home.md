@@ -4,7 +4,7 @@
 
 Welcome to my website! I am an Assistant Professor of Accounting at the University of Alberta.
  
-<strong>Research interests:</strong> archival-based studies in financial and managerial accounting - with special focuses on climate change, supply chain management, political costs, executive compensation, etc. 
+<strong>Research interests:</strong> I am broadly interested in Disclosure and Corporate Governance, Big Data and Digital Economy, Trading and Supply Chain, Political Economy, Credit Markets, Healthcare, etc. 
 
 Prior to joining the University of Alberta in 2024, I obtained my Ph.D. from UBC Sauder School of Business, the Master of Finance from MIT Sloan School of Management, and the Bachelor in Financial Engineering from Wuhan University. 
 
