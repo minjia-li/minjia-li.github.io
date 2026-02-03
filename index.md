@@ -4,8 +4,7 @@ layout: homepage
  
 
 {% include_relative _includes/home.md %}
- 
-{% include_relative _includes/cv.md %}
+
 
 {% include_relative _includes/research.md %}
  
