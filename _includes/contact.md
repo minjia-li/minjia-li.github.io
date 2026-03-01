@@ -1,9 +1,8 @@
 <h2 style="margin: 60px 0px 10px;">Contact</h2>
 
-Email Address: minjia4 (at) ualberta.ca
+<strong> Email Address: </strong> minjia4 (at) ualberta.ca
 <br />
-11203 Saskatchewan Drive NW
+<strong>Office Location: </strong>  Office: 3-30Q Business Building 
 <br />
-Edmonton, AB T6G 2R6 
-<br />
-Office: 3-30Q Business Building 
+<strong>Mailing Address: </strong> 11203 Saskatchewan Drive NW, Edmonton, AB T6G 2R6 
+ 
