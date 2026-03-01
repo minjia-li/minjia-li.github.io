@@ -1,23 +1,28 @@
-# Basic Information 
-title: Minjia (Minka) Li 
+# Basic Information
+title: Minjia Li
 position: Assistant Professor of Accounting
-affiliation: University of Alberta 
+affiliation: University of Alberta
+affiliation_link: https://www.ualberta.ca/business/
+affiliation_logo: assets/img/UA_Logo_Green_RGB.png
 email: minjia4 (at) ualberta.ca
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
- 
- 
-# Links 
+keywords: Minjia Li, accounting, University of Alberta, disclosure, corporate governance, supply chain, political economy
+description: Minjia Li is an Assistant Professor of Accounting at the University of Alberta, researching disclosure, corporate governance, and supply chain management.
+canonical: https://minjia-li.github.io
+
+# Links
 # If you don't need one of them, you may delete the corresponding line.
+link_type: icon
 google_scholar: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3709935
 cv_link: https://www.dropbox.com/scl/fi/q2gyg4uzpod70chospnxv/cv.pdf?rlkey=xv3kcts9vgwdbbblg9m6n3z95&st=biofnnah&dl=0
 #github_link: https://github.com/
 linkedin: https://linkedin.com/in/minjiali
 #twitter: https://twitter.com/
 
-# Images (e.g., your profile picture and your website's favicon) 
-# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
+# Images (e.g., your profile picture and your website's favicon)
+# "favicon" and "favicon_dark" are used for the light and dark modes, respectively.
 avatar: ./assets/img/minjiali.jpeg
 favicon: ./assets/img/favicon-32.png
 favicon_dark: ./assets/img/favicon-32.png
@@ -36,11 +41,9 @@ remote_theme: yaoyao-liu/minimal-light
 
 # The following files will be removed from the generated website.
 exclude:
+  - build.sh
   - Gemfile
   - Gemfile.lock
   - README.md
-  - README_zh_Hans.md
-  - README_zh_Hant.md
-  - README_de.md
   - LICENSE
-  - minimal-light.gemspec
+  - CNAME
