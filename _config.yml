@@ -1,14 +1,9 @@
-<<<<<<< HEAD
 # Basic Information
 title: Minjia Li
-=======
-# Basic Information 
-title: Minjia Li 
->>>>>>> feb273c2ab13f8dc2e0f698511ab936b0a2219bc
 position: Assistant Professor of Accounting
 affiliation: University of Alberta
 affiliation_link: https://www.ualberta.ca/business/
-affiliation_logo: assets/img/UA_Logo_Green_RGB.png
+affiliation_logo: ./assets/img/university-of-alberta-logo-1.png
 email: minjia4 (at) ualberta.ca
 
 # Search Engine Optimization (SEO)
