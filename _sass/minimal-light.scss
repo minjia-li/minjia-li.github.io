@@ -228,16 +228,18 @@ papertitle {
 
       .image.avatar img {
         border-radius: 0;
-        width: 300%;
-        padding: 10px;
+        width: 100%;
+        padding: 0;
     //   border: 1px solid #ddd;
     //    padding: 3px;
        //  box-shadow: 0 -1px 5px 1px rgba(200, 200, 200, 0.3);
       }
 
-    #header .image.avatar {
-      margin: 0 0 2em 0;
-      width: 8.00em;
+    header .image.avatar {
+      margin: 0 0 1.5em 0;
+      width: 100%;
+      max-width: 200px;
+      display: block;
     }
 
 h3, h4, h5, h6 {
@@ -512,8 +514,8 @@ footer {
 
    .image.avatar img {
         border-radius: 0;
-        width: 300%;
-        padding:10px;
+        width: 100%;
+        padding: 0;
       }
   #head1o2 {
     visibility: hidden;
