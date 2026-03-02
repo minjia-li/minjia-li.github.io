@@ -13,9 +13,9 @@ main:
   #- title: "Miscellaneous"
   #  url: ./teaching.html
 
-  - title: "Miscellaneous"
-    url: miscellaneous/
-    right: true
+  #- title: "Miscellaneous"
+  #  url: miscellaneous/
+  #  right: true
 
   
   - title: "Research"
