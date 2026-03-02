@@ -1,5 +1,5 @@
 .badge {
-    display: inline-block;
+    display: inline;
     padding: 0.25em 0.4em;
     font-size: 75%;
     font-weight: 700;
@@ -84,7 +84,7 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .topic-tag {
   padding: 1px 4px;      /* tight, highlight-like */
-  border-radius: 2px;
+  border-radius: 0;
 }
 
 .topic-tag-green  { background-color: #c6e6c8; color: #1a4a22; }  /* no border, deeper color */
