@@ -9,5 +9,5 @@
 
 <h4 style="margin:0 0 0;">University of British Columbia, Sauder School of Business</h4>
 <ul style="margin:0 0 10px;">
-  <li><autocolor>COMM 294 Managerial Accounting <strong>(Undergraduate)</strong>, Solo Instructor</autocolor></li>
+  <li><autocolor>COMM 294 Managerial Accounting <strong>(Undergraduate)</strong></li>
 </ul>
