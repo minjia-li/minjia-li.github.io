@@ -44,13 +44,11 @@
   <script>
 const tagColors = {
   'Supply Chain':         'topic-tag-green',
-  'ESG':                  'topic-tag-purple',
-  'Executive Pay':        'topic-tag-orange',
-  'Governance': 'topic-tag-blue',
+  'ESG':                  'topic-tag-purple', 
+  'Governance':           'topic-tag-blue',
   'Political Economy':    'topic-tag-red',
   'Disclosure':           'topic-tag-teal',
-  'Credit Markets':       'topic-tag-blue',
-  'Board Diversity':      'topic-tag-purple'
+  'Credit Markets':       'topic-tag-orange' 
 };
 document.querySelectorAll('.topic-tag').forEach(tag => {
   const color = tagColors[tag.textContent.trim()];
