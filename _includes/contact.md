@@ -1,6 +1,6 @@
 <h2 style="margin: 60px 0px 10px;">Contact</h2>
 
-<strong> Email Address: </strong> minjia4 (at) ualberta.ca
+<strong> Email Address: </strong> <a href="minjia4@ualberta.ca">minjia4@ualberta.ca</a>
 <br />
 <strong>Office Location: </strong>  3-30Q Business Building 
 <br />
