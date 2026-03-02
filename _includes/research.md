@@ -6,7 +6,7 @@
 <div>
   <div class="title"> [1] <strong> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4847937">Climate-linked Pay and Supply Chain Management</a></strong><em>, solo-authored</em> </div>
  <div> <span class="topic-tag">ESG</span>
-  <span class="topic-tag">Governance</span> </div>
+  <span class="topic-tag">Contracting</span> </div>
   <ul>
     <li>   Winner of 2024 WFA Brattle Group PhD Candidate Award for Outstanding Research  <br></li>
      <li>   Winner of 2023 IMA Research Foundation Special Call Research Grant <br></li>
@@ -43,7 +43,7 @@
 
   <script>
 const tagColors = {
-  'Supply Chain':         'topic-tag-green',
+  'Contracting':         'topic-tag-green',
   'ESG':                  'topic-tag-purple', 
   'Governance':           'topic-tag-blue',
   'Political Economy':    'topic-tag-red',
