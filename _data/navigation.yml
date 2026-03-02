@@ -10,9 +10,14 @@ main:
   #- title: "Talks"
   #  url: talks/
 
-  #- title: "Teaching"
+  #- title: "Miscellaneous"
   #  url: ./teaching.html
 
+  - title: "Miscellaneous"
+    url: miscellaneous/
+    right: true
+
+  
   - title: "Research"
     url: research/
 
