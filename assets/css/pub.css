@@ -83,18 +83,13 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 
 .topic-tag {
-  display: inline-block;
-  padding: 2px 9px;
-  margin: 4px 4px 0 0;
-  font-size: 1rem;
-  font-weight: 500;
-  border-radius: 3px;
-  letter-spacing: 0.02em;
+  padding: 1px 4px;      /* tight, highlight-like */
+  border-radius: 2px;
 }
 
-.topic-tag-green    { background-color: #e8f0eb; color: #275d38; border: 1px solid #c5d9cb; }
-.topic-tag-blue     { background-color: #e8f0f8; color: #1a4a7a; border: 1px solid #b8ceea; }
-.topic-tag-orange   { background-color: #fdf2e9; color: #9c5a00; border: 1px solid #f0cfa0; }
-.topic-tag-purple   { background-color: #f4ecf7; color: #6c3483; border: 1px solid #d9b8e8; }
-.topic-tag-red      { background-color: #fdf0ed; color: #922b21; border: 1px solid #f0c5be; }
-.topic-tag-teal     { background-color: #e8f6f3; color: #0e6655; border: 1px solid #a9dfcf; }
+.topic-tag-green  { background-color: #c6e6c8; color: #1a4a22; }  /* no border, deeper color */
+.topic-tag-blue   { background-color: #c0d8f5; color: #0f2d5e; }
+.topic-tag-orange { background-color: #fde4b8; color: #7a3f00; }
+.topic-tag-purple { background-color: #e8ccf5; color: #4a1a6e; }
+.topic-tag-red    { background-color: #f5c8c4; color: #6e1a14; }
+.topic-tag-teal   { background-color: #b8e8dc; color: #0a4035; }
