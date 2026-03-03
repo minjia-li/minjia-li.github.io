@@ -1,10 +1,81 @@
+<h2 style="margin: 20px 0px 10px;">Selected Presentations</h2>
 
-<h2 id="talks" style="margin: 2px 0px 0px;"> <br>
-<br> Selected Talks</h2>
-
-<ul style="margin:0 0 5px;">
- <li><autocolor> <strong>[Jun 2024]</strong> 2024 WFA Conference, Hawaii </autocolor></li>
- <li><autocolor> <strong>[Jun 2024]</strong> 2024 Haskayne and Fox Accounting Conference, Lake Louise </autocolor></li>
- <li><autocolor> <strong>[Jun 2024]</strong> IMA's 2024 Accounting &amp; Finance Conference, San Antonio </autocolor></li>
- <li><autocolor> <strong>[Apr 2024]</strong> University of Washington Fostering Inclusion Workshop, Seattle </autocolor></li>
+<ul style="margin: 0 0 10px 20px; line-height: 1.6;">
+  <li>
+    <strong>2025:</strong>
+    <div style="margin-top: 5px; margin-left: 20px;">
+      <div>Singapore Accounting Symposium (Singapore)</div>
+      <div>PolyU Accounting Research Conference* (Hong Kong)</div>
+      <div>The Japanese Accounting Review* (Kobe, Japan)</div>
+      <div>Notre Dame Accountancy Research Conference* (Notre Dame, US)</div>
+      <div>CSUF Haskell & White Conference (Fullerton, US)</div>
+      <div>Commodity and Energy Markets Association Annual Meeting (Houston, US)</div>
+      <div>Haskayne and Fox Accounting Conference (Whistler, Canada)</div>
+      <div>Global Finance Conference* (Boston, US)</div>
+      <div>Online Accounting Workshop for Rookies 2023/2024 (Mar)</div>
+      <div>Georgia State University* (Oct)</div>
+      <div>The University of Manchester* (Oct)</div>
+    </div>
+  </li>  
 </ul>
+
+
+<ul style="margin: 0 0 10px 20px; line-height: 1.6;">
+  <li>
+    <strong>2024:</strong>
+    <div style="margin-top: 5px; margin-left: 20px;">
+       
+  <div>Western Finance Association Conference (Honolulu, US)</div>
+  <div>Haskayne and Fox Accounting Conference (Lake Louise, Canada)</div>
+  <div>NBER Doctoral Training Workshop on Economics of Executive Compensation (Cambridge, US)</div>
+  <div>IMA24 Accounting and Finance Conference (San Antonio, US)</div>
+  <div>POMS Conference* (Minneapolis, US)</div>
+  <div>AIB-Canada Chapter Conference* (Calgary, Canada)</div>
+  <div>University of Washington Fostering Inclusion Workshop (Seattle, US)</div>
+  <div>MAS Midyear Meeting (×2, Orlando, US)</div>
+     <div>Queen's University (Nov)</div>
+  <div>Duke University (Feb)</div>
+  <div>Rice University (Feb)</div>
+  <div>University of Washington (Feb)</div>
+  <div>Frankfurt School of Finance and Management (Jan)</div>
+  <div>University of Alberta (Jan)</div>
+    </div>
+  </li>  
+</ul>
+
+
+<ul style="margin: 0 0 10px 20px; line-height: 1.6;">
+  <li>
+    <strong>2023:</strong>
+    <div style="margin-top: 5px; margin-left: 20px;">
+    <div>NBER Conference on “Compensation of Top Executives” (Cambridge, US)</div>
+  <div>JMAR Rookie Camp (Online)</div>
+  <div>Conference on Financial Economics and Accounting (New Brunswick, US)</div>
+  <div>Boston Accounting Students Symposium (Cambridge, US)</div>
+  <div>AAA Annual Meeting (Denver, US)</div>
+  <div>China International Conference in Finance (Shanghai, China)</div>
+  <div>Haskayne and Fox Accounting Conference (Lake Louise, Canada)</div>
+  <div>McGill Accounting Research Conference (Montreal, Canada)</div>
+  <div>CAAA Annual Meeting (Québec City, Canada)</div>
+  <div>Hawaii Accounting Research Conference (Honolulu, US)</div>
+  <div>National University of Singapore (Dec)</div>
+  <div>Chinese University of Hong Kong (Nov)</div>
+  <div>University of Hong Kong (Nov)</div>
+  <div>Simon Fraser University (Nov)</div>
+  <div>University of British Columbia (Aug)</div>
+  <div>University of Delaware* (Mar)</div>
+    </div>
+  </li>  
+</ul>
+
+
+<h2 style="margin: 20px 0px 10px;">Selected Discussions</h2>
+
+<div style="margin-left: 20px; line-height: 1.6;">
+  <div>Innovations in Sustainable Finance–Kellogg Conference, 2026</div>
+ <div>NBER Conference on "Compensation of Top Executives", 2025</div>
+  <div>SFS Cavalcade Asia Pacific, 2024</div>
+</div>
+
+
+ 
