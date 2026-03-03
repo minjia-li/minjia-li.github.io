@@ -2,6 +2,28 @@
 
 <ul style="margin: 0 0 10px 20px; line-height: 1.6;">
   <li>
+    <strong>2026:</strong>
+    <div style="margin-top: 5px; margin-left: 20px;">
+      <div>MAS Midyear Meeting (Nashville, US)</div>
+  <div>FARS Midyear Meeting* (San Antonio, US)</div>
+  <div>FASB-CARC Emerging Financial Reporting Issues Research Symposium* (Norwalk, US)</div>
+  <div>University of Alberta Accounting Research Conference (Canmore, Canada)</div>
+  <div>EAA Annual Congress* (Prague, Czech Republic)</div>
+  <div>China International Conference in Finance (Hong Kong)</div>
+  <div>Labor & Finance Group Conference (Nashville, US)</div>
+  <div>CAAA Annual Meeting* (×2, Banff, Canada)</div>
+  <div>American Law & Economics Association Annual Meeting (Chicago, US)</div>
+  <div>The Hang Seng University of Hong Kong* (Jan)</div>
+  <div>The University of Oklahoma* (Feb)</div>
+  <div>The University of Oklahoma* (Finance, Feb)</div>
+  <div>Washington University in St. Louis* (Mar)</div>
+    </div>
+  </li>  
+</ul>
+
+
+<ul style="margin: 0 0 10px 20px; line-height: 1.6;">
+  <li>
     <strong>2025:</strong>
     <div style="margin-top: 5px; margin-left: 20px;">
       <div>Singapore Accounting Symposium (Singapore)</div>
