@@ -1,26 +1,15 @@
 main:
 
- # - title: "Teaching"
- #   url: teaching/
-  #  right: true 
-
- # - title: "Services"
-  #  url: services/
-
- - title: "Talks"
-     url: talks/
-     right: true
-
-  #- title: "Miscellaneous"
-  #  url: ./teaching.html
+  - title: "Talks"
+    url: talks/
+    right: true
 
   - title: "Teaching"
     url: teaching/
     right: true
 
-  
   - title: "Research"
     url: research/
-
+    
   - title: "Home"
     url: ./
