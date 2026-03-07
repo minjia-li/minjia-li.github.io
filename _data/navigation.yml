@@ -2,16 +2,16 @@ main:
 
   - title: "Talks"
     url: talks/
-    right: true
+
 
   - title: "Teaching"
     url: teaching/
-    right: true
+
 
   - title: "Research"
     url: research/
-    right: true
+
     
   - title: "Home"
     url: ./
-    right: true
+
