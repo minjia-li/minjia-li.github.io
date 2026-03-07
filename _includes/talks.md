@@ -13,10 +13,10 @@
   <div>Labor & Finance Group Conference (Nashville, US)</div>
   <div>CAAA Annual Meeting* (×2, Banff, Canada)</div>
   <div>American Law & Economics Association Annual Meeting (Chicago, US)</div>
-  <div>The Hang Seng University of Hong Kong* (Jan)</div>
-  <div>The University of Oklahoma* (Feb)</div>
-  <div>The University of Oklahoma* (Finance, Feb)</div>
-  <div>Washington University in St. Louis* (Mar)</div>
+  <div>The Hang Seng University of Hong Kong* </div>
+  <div>The University of Oklahoma* </div>
+  <div>The University of Oklahoma* (Finance)</div>
+  <div>Washington University in St. Louis*</div>
     </div>
   </li>  
 </ul>
@@ -34,9 +34,9 @@
       <div>Commodity and Energy Markets Association Annual Meeting (Houston, US)</div>
       <div>Haskayne and Fox Accounting Conference (Whistler, Canada)</div>
       <div>Global Finance Conference* (Boston, US)</div>
-      <div>Online Accounting Workshop for Rookies 2023/2024 (Mar)</div>
-      <div>Georgia State University* (Oct)</div>
-      <div>The University of Manchester* (Oct)</div>
+      <div>Online Accounting Workshop for Rookies 2023/2024 </div>
+      <div>Georgia State University* </div>
+      <div>The University of Manchester* </div>
     </div>
   </li>  
 </ul>
@@ -55,12 +55,12 @@
   <div>AIB-Canada Chapter Conference* (Calgary, Canada)</div>
   <div>University of Washington Fostering Inclusion Workshop (Seattle, US)</div>
   <div>MAS Midyear Meeting (×2, Orlando, US)</div>
-     <div>Queen's University (Nov)</div>
-  <div>Duke University (Feb)</div>
-  <div>Rice University (Feb)</div>
-  <div>University of Washington (Feb)</div>
-  <div>Frankfurt School of Finance and Management (Jan)</div>
-  <div>University of Alberta (Jan)</div>
+     <div>Queen's University </div>
+  <div>Duke University </div>
+  <div>Rice University </div>
+  <div>University of Washington (</div>
+  <div>Frankfurt School of Finance and Management </div>
+  <div>University of Alberta </div>
     </div>
   </li>  
 </ul>
@@ -80,12 +80,12 @@
   <div>McGill Accounting Research Conference (Montreal, Canada)</div>
   <div>CAAA Annual Meeting (Québec City, Canada)</div>
   <div>Hawaii Accounting Research Conference (Honolulu, US)</div>
-  <div>National University of Singapore (Dec)</div>
-  <div>Chinese University of Hong Kong (Nov)</div>
-  <div>University of Hong Kong (Nov)</div>
-  <div>Simon Fraser University (Nov)</div>
-  <div>University of British Columbia (Aug)</div>
-  <div>University of Delaware* (Mar)</div>
+  <div>National University of Singapore</div>
+  <div>Chinese University of Hong Kong </div>
+  <div>University of Hong Kong </div>
+  <div>Simon Fraser University </div>
+  <div>University of British Columbia</div>
+  <div>University of Delaware* </div>
     </div>
   </li>  
 </ul>
