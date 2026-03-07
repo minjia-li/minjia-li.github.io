@@ -6,9 +6,12 @@ main:
 
   - title: "Teaching"
     url: teaching/
+    right: true
 
   - title: "Research"
     url: research/
+    right: true
     
   - title: "Home"
     url: ./
+    right: true
