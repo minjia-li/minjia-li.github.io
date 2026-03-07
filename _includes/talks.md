@@ -9,10 +9,7 @@
   <div>FASB-CARC Emerging Financial Reporting Issues Research Symposium* (Norwalk, US)</div>
   <div>University of Alberta Accounting Research Conference (Canmore, Canada)</div>
   <div>EAA Annual Congress* (Prague, Czech Republic)</div>
-  <div>China International Conference in Finance (Hong Kong)</div>
-  <div>Labor & Finance Group Conference (Nashville, US)</div>
   <div>CAAA Annual Meeting* (×2, Banff, Canada)</div>
-  <div>American Law & Economics Association Annual Meeting (Chicago, US)</div>
   <div>The Hang Seng University of Hong Kong* </div>
   <div>The University of Oklahoma* </div>
   <div>The University of Oklahoma* (Finance)</div>
