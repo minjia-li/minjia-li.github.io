@@ -58,7 +58,7 @@
      <div>Queen's University </div>
   <div>Duke University </div>
   <div>Rice University </div>
-  <div>University of Washington (</div>
+  <div>University of Washington </div>
   <div>Frankfurt School of Finance and Management </div>
   <div>University of Alberta </div>
     </div>
