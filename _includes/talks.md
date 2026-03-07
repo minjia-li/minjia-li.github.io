@@ -94,9 +94,9 @@
 <h2 style="margin: 20px 0px 10px;">Selected Discussions</h2>
 
 <div style="margin-left: 20px; line-height: 1.6;">
-  <div>Innovations in Sustainable Finance–Kellogg Conference, 2026</div>
- <div>NBER Conference on "Compensation of Top Executives", 2025</div>
-  <div>SFS Cavalcade Asia Pacific, 2024</div>
+  <div> <strong>2026:</strong> Innovations in Sustainable Finance–Kellogg Conference</div>
+ <div> <strong>2025:</strong> NBER Conference on "Compensation of Top Executives"</div>
+  <div> <strong>2024:</strong> SFS Cavalcade Asia Pacific</div>
 </div>
 
 
