@@ -3,6 +3,9 @@
 <h4 style="margin: 10px 0px 0px;">University of Alberta, Alberta School of Business</h4>
 <ul style="margin: 0 0 10px 20px;">
   <li>ACCTG 222 Introduction to Accounting for Management Decision Making <strong>(Undergraduate)</strong></li>
+  <ul style="margin: 0 0 10px 20px;">
+  <li>Coordinator, 2026</li>
+</ul>
 </ul>
 
 <h4 style="margin: 10px 0px 0px;">University of British Columbia, Sauder School of Business</h4>
