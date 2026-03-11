@@ -13,7 +13,7 @@
   <div>The Hang Seng University of Hong Kong* </div>
   <div>The University of Oklahoma* </div>
   <div>The University of Oklahoma* (Finance)</div>
-  <div>Washington University in St. Louis*</div>
+ 
     </div>
   </li>  
 </ul>
