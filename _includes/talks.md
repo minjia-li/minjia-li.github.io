@@ -13,7 +13,7 @@
   <div>The Hang Seng University of Hong Kong* </div>
   <div>The University of Oklahoma* </div>
   <div>The University of Oklahoma* (Finance)</div>
-       <div> <strong>Discussion:</strong> Innovations in Sustainable Finance–Kellogg Conference</div>
+       <div> <strong>Discussion:</strong> Innovations in Sustainable Finance–Kellogg Conference (Evanston, US)</div>
     </div>
   </li>  
 </ul>
@@ -34,7 +34,7 @@
       <div>Online Accounting Workshop for Rookies 2023/2024 </div>
       <div>Georgia State University* </div>
       <div>The University of Manchester* </div>
-       <div> <strong>Discussion: </strong> NBER Conference on "Compensation of Top Executives"</div>
+       <div> <strong>Discussion: </strong> NBER Conference on "Compensation of Top Executives"  (Cambridge, US)</div>
     </div>
   </li>  
 </ul>
@@ -59,7 +59,7 @@
   <div>University of Washington </div>
   <div>Frankfurt School of Finance and Management </div>
   <div>University of Alberta </div>
-    <div> <strong>Discussion:</strong> SFS Cavalcade Asia Pacific</div>
+    <div> <strong>Discussion:</strong> SFS Cavalcade Asia Pacific (Seoul, South Korea)</div>
     </div>
   </li>  
 </ul>
