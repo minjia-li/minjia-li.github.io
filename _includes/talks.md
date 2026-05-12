@@ -13,7 +13,7 @@
   <div>The Hang Seng University of Hong Kong* </div>
   <div>The University of Oklahoma* </div>
   <div>The University of Oklahoma* (Finance)</div>
-       <div> <strong>Discussion:</strong> Innovations in Sustainable Finance–Kellogg Conference (Evanston, US)</div>
+       <div> <strong>Discussion:</strong> Kellogg Innovations in Sustainable Finance Conference (Evanston, US)</div>
     </div>
   </li>  
 </ul>
