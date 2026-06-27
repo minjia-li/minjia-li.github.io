@@ -37,14 +37,7 @@
 </div>
 
 
-<div>
-  <div class="title"> [4] <strong> <a href="">Can Corporate Governance Reforms Reshape Supply-Chain Contracting? Evidence from Gender Quotas</a></strong><em>, with Mengqiao Du and Gaizka Ormazabal </em> </div>
- <div> <span class="topic-tag">Governance</span>
-  <span class="topic-tag">Contracting</span> </div>
-  <ul>
-    <li>   Winner of 2026 Hanyang Accounting Research Symposium Outstanding Research Award  <br></li>
  
-  </ul>
 
 
 
