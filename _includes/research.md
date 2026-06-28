@@ -10,7 +10,7 @@
   <ul>
     <li>   Winner of 2024 WFA Brattle Group PhD Candidate Award for Outstanding Research  <br></li>
      <li>   Winner of 2023 IMA Research Foundation Special Call Research Grant <br></li>
-     <li>   Selected conferences: NBER, WFA, CFEA <br></li>
+     <li>   Selected conferences: Conference on Compensation of Top Executives, WFA, CFEA, JMAR Rookie Camp <br></li>
   </ul>
 
 </div>
