@@ -6,6 +6,7 @@ Welcome! I am an Assistant Professor of Accounting at the <a href="https://www.u
 
 <strong>Research interests:</strong> Disclosure and Governance, Big Data and Digital Economy, Supply Chain Management, Political Economy, Credit Markets, and Healthcare.
 
-Before joining the University of Alberta in 2024, I earned my Ph.D. in Accounting from the <a href="https://www.sauder.ubc.ca/">UBC Sauder School of Business</a>, an M.S. in Finance from the <a href="https://mitsloan.mit.edu/">MIT Sloan School of Management</a>, and a B.S. in Financial Engineering from <a href="https://en.whu.edu.cn/">Wuhan University</a>.
-
- 
+<strong>Education:</strong> 
+Ph.D. in Accounting, University of British Columbia (2019-2024)
+M.S. in Finance, Massachusetts Institute of Technology (2018-2019) 
+B.S. in Financial Engineering, Wuhan University (2014-2018) 
