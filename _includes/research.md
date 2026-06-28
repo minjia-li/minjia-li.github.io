@@ -33,7 +33,7 @@
    <div> <span class="topic-tag">Disclosure</span>
   <span class="topic-tag">Credit Markets</span> </div>
  <ul> 
-   <li>   Selected conferences: Wharton–Chicago–Harvard Insolvency and Restructuring Conference, FASB-CARC Emerging Financial Reporting Issues Research Symposium, FARS Midyear Meeting, Singapore Accounting Symposium, Notre Dame Accountancy Research Conference, CSUF Haskell & White Conference  <br></li>
+   <li>   Selected conferences: Wharton–Chicago–Harvard Insolvency and Restructuring Conference, FASB-CARC Emerging Financial Reporting Issues Research Symposium, FARS, Singapore Accounting Symposium, Notre Dame Accountancy Research Conference, CSUF Haskell & White Conference  <br></li>
   </ul>
 
 </div>
