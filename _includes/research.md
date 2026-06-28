@@ -10,7 +10,7 @@
   <ul>
     <li>   Winner of 2024 WFA Brattle Group PhD Candidate Award for Outstanding Research  <br></li>
      <li>   Winner of 2023 IMA Research Foundation Special Call Research Grant <br></li>
-     <li>   Selected conferences: NBER Conference on Compensation of Top Executives, WFA, CFEA, JMAR Rookie Camp <br></li>
+     <li>   Selected conferences: NBER, WFA, CFEA, JMAR Rookie Camp <br></li>
   </ul>
 
 </div>
@@ -33,7 +33,7 @@
    <div> <span class="topic-tag">Disclosure</span>
   <span class="topic-tag">Credit Markets</span> </div>
  <ul> 
-   <li>   Selected conferences: Wharton–Chicago–Harvard Insolvency and Restructuring Conference, FASB-CARC EFRIRS, FARS, Singapore Accounting Symposium, Notre Dame Accountancy Research Conference, CSUF Haskell & White Conference  <br></li>
+   <li>   Selected conferences: Wharton–Chicago–Harvard IRC, FASB-CARC EFRIRS, FARS, Singapore Accounting Symposium, Haskell & White Conference  <br></li>
   </ul>
 
 </div>
