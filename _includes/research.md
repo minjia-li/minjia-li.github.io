@@ -40,7 +40,7 @@
 
 
 <div>
-<div class="title"> [3] <strong><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7027758">Can Corporate Governance Reforms Reshape Supply-Chain Contracting? Evidence from Gender Quotas</a></strong><em>, with Mengqiao Du and Gaizka Ormazabal </em> </div>
+<div class="title"> [4] <strong><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7027758">Can Corporate Governance Reforms Reshape Supply-Chain Contracting? Evidence from Gender Quotas</a></strong><em>, with Mengqiao Du and Gaizka Ormazabal </em> </div>
    <div> <span class="topic-tag">Governance</span>
   <span class="topic-tag">Contracting</span> </div>
  <ul> 
