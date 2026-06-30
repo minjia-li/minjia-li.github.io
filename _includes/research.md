@@ -45,7 +45,7 @@
   <span class="topic-tag">Contracting</span> </div>
  <ul> 
    <li>   Winner of 2026 Hanyang Accounting Research Symposium Outstanding Paper Award  <br></li>
-   <li>   Selected conferences: TMAC, CAAA, Hanyang Accounting Research Symposium, MAS, PolyU Accounting Research Conference  <br></li>
+   <li>   Selected conferences: TMAC, CAAA, MAS, PolyU Accounting Research Conference  <br></li>
   </ul>
 
 </div>
